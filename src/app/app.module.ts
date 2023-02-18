@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+
 import { HeaderComponent } from './Components/Partials/header/header.component';
 import { HomeComponent } from './Components/Pages/home/home.component';
 import { TagsComponent } from './Components/Partials/tags/tags.component';
@@ -17,6 +17,7 @@ import { PaymentComponent } from './Components/Pages/payment/payment.component';
 import { TextInputComponent } from './Components/Partials/text-input/text-input.component';
 import { InputValidationComponent } from './Components/Partials/input-validation/input-validation.component';
 import { InputContainerComponent } from './Components/Partials/input-container/input-container.component';
+import { NotFoundComponent } from './Components/Partials/not-found/not-found.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import { InputContainerComponent } from './Components/Partials/input-container/i
     PaymentComponent,
     TextInputComponent,
     InputValidationComponent,
-    InputContainerComponent
+    InputContainerComponent,
+    NotFoundComponent
   ],
   imports: [
     BrowserModule,
