@@ -1,16 +1,6 @@
 import { Food } from "../Models/food";
 import { Tag } from "../Models/tag";
 
-/*export const sample_users: Admin = 
-    // Admin
-    {
-        id: '1',
-        name: "Admin",
-        email: "admin@test.com",
-        password: "admin"
-
-    };*/
-
 export const sample_foods: Food[] = [
     {
         id: '1',
