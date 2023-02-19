@@ -3,7 +3,7 @@ export class Food {
     id!:string; 
     name!:string;
     price!:number;
-    tags?: string[];
+    tags?: String[];
     imageUrl!: string;
     company!: string;
 

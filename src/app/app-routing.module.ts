@@ -10,7 +10,7 @@ import { PaymentComponent } from './Components/Pages/payment/payment.component';
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'search/:searchTerm', component: HomeComponent },
-  { path: 'tag/:tagid', component: HomeComponent },
+  { path: 'tag/:tag', component: HomeComponent },
   { path:'food/:id', component: FoodComponent },
   { path: 'cart', component: CartComponent },
   { path: 'checkout', component: CheckoutComponent },

@@ -7,7 +7,7 @@ export const sample_foods: Food[] = [
         name: 'Milk',
         price: 25,
         imageUrl: 'assets/foodItem1.jpg',
-        tags: ['Veg'],
+        tags: ['veg'],
         company: ''
     },
     {
@@ -15,7 +15,7 @@ export const sample_foods: Food[] = [
         name: 'Bread',
         price: 20,
         imageUrl: 'assets/foodItem2.jpg',
-        tags: ['Veg'],
+        tags: ['veg'],
         company: ''
 
     },
@@ -24,7 +24,7 @@ export const sample_foods: Food[] = [
         name: 'Eggs',
         price: 10,
         imageUrl: 'assets/foodItem3.jpg',
-        tags: ['Non-veg'],
+        tags: ['non-veg'],
         company: ''
     },
     {
@@ -32,7 +32,7 @@ export const sample_foods: Food[] = [
         name: 'Potatoes',
         price: 20,
         imageUrl: 'assets/foodItem4.jpg',
-        tags: ['Veg'],
+        tags: ['veg'],
         company: ''
     },
     {
@@ -40,7 +40,7 @@ export const sample_foods: Food[] = [
         name: 'Chicken Meat',
         price: 11,
         imageUrl: 'assets/foodItem5.jpg',
-        tags: ['Non-veg'],
+        tags: ['non-veg'],
         company: ''
     },
     {
@@ -48,7 +48,7 @@ export const sample_foods: Food[] = [
         name: 'Fish Meat',
         price: 9,
         imageUrl: 'assets/foodItem6.jpg',
-        tags: ['Non-veg'],
+        tags: ['non-veg'],
         company: ''
     }
 ]
@@ -60,11 +60,11 @@ export const sample_tags: Tag[] = [
         count: 6
     },
     {
-        name: 'Veg',
+        name: 'veg',
         count: 3
     },
     {
-        name: 'Non-veg',
+        name: 'non-veg',
         count: 3
     }
 ]
