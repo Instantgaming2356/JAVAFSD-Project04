@@ -80,21 +80,12 @@ These are the different controllers that are used to manage the data in backend.
 
 <img alt = "Checkout Page" src = "https://github.com/Instantgaming2356/JAVAFSD-Project04/blob/master/Images/Screenshot%20(2612).png">
 
-1. User will have three choice to perform certain operations
+1. User can view all the available food items and can select them for purchasing which will be stores in a local cart page.
 
-    a. If User has selected "admin".
-
-    b. If user has selected "customer".
-
-    c. If user has selected "login-user".
-
-2. In admin section, user can perform CRUD operation on products that are going to be available in stock and along with user can manage their details, email and password.
+2. In Food Page user can view all the item details and later would encounter checkout page with its billing details.
 
 3. In Customer section, user has to enter its details for purchasing any products along with productId that is present in available stock.
   
-4. In Login user section, as the user can manage the user details along with email and password. They can also purchase the available product directly through their userId and productId. 
-
-5. The admin  can also view all the customers (including users) that have done any purchasing in this portal. And also list of users that are registered in this portal.
 
 
 ## Technologies
