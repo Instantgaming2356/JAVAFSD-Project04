@@ -76,7 +76,7 @@ Following requirements should be met:
 
 These are the different controllers that are used to manage the data in backend.
 
-<img alt = "Home Page" src = "https://github.com/Instantgaming2356/JAVAFSD-Project04/blob/master/Images/Screenshot%20(2625).png">
+<img alt = "Home Page" src = "https://github.com/Instantgaming2356/JAVAFSD-Project04/blob/master/Images/Screenshot%20(2621).png">
 
 <img alt = "Checkout Page" src = "https://github.com/Instantgaming2356/JAVAFSD-Project04/blob/master/Images/Screenshot%20(2612).png">
 
